@@ -6,7 +6,7 @@
 
 
 
-$$ \phi_{Superficie Cerrada} = \dfrac{q_{enc}}{\epsilon_{0}} $$
+$$ \Phi_{Superficie Cerrada} = \dfrac{q_{enc}}{\epsilon_{0}} $$
 
 
 
