@@ -10,7 +10,7 @@ $$ \oint \vec{B}  \cdot d\vec{l}  =  \oint \dfrac{ \mu_0 I}{2 \pi r} r d \theta 
 
 $$ \oint_M \vec{H} \cdot d\vec{l} = \mu_0 $$
 
-$$ \oint_C  \vec{H} \cdot d\vec{l} = \int \int_S \vec{J} \cdot d\vec{S} = \sum^{N}_{i = 0} i_n = i_1 + i_2 + i_3 + ... + i_N = i_{enc} $$
+$$ \oint_C  \vec{H} \cdot d\vec{l} = \int \int_S \vec{J} \cdot d\vec{S} = \sum_{i = 0}^{N} i_n = i_1 + i_2 + i_3 + ... + i_N = i_{enc} $$
 
 ![cilindro](https://github.com/M-O-R-P-H-E-U-S/Electromagnetic-Fields/blob/main/cilindro.jpeg) 
 
