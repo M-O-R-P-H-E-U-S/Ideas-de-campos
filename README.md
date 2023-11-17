@@ -4,7 +4,7 @@
 
 ![gauss_diagrama](https://github.com/M-O-R-P-H-E-U-S/Electromagnetic-Fields/blob/main/gauss_diagrama.jpeg) 
 
-
+$$ \Phi = \int_S \vec{E} \cdot \vec{n} dA $$
 
 $$ \Phi_{Superficie Cerrada} = \dfrac{q_{enc}}{\epsilon_{0}} $$
 
