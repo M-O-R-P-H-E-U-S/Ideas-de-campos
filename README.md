@@ -1,5 +1,11 @@
 # Electromagnetic-Fields
 
+
+
+![gauss_diagrama](https://github.com/M-O-R-P-H-E-U-S/Electromagnetic-Fields/blob/main/gauss_diagrama.jpeg) 
+
+
+
 La propiedad fundamental de un campo magnético estático es que no es conservador. Un campo conservador es aquel que realiza la misma cantidad de trabajo sobre una partícula que se desplaza entre dos puntos diferentes, sin importar la trayectoria elegida. Los campos magnéticos no tienen esa propiedad.
 
 $$  \vec{B} \cdot \vec{l} = B r d \theta$$
