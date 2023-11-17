@@ -6,9 +6,9 @@ $$  \vec{B} \cdot \vec{l} = B r d \theta$$
 
 ![diagrama](https://github.com/M-O-R-P-H-E-U-S/Electromagnetic-Fields/blob/main/diagrama.jpeg) 
 
-$$ \oint \vec{B}  \cdot \vec{l}  =  \oint \dfrac{ \mu_0 I}{2 \pi r} r d \theta = (\dfrac{ \mu_0 I}{2 \pi r})\oint  d \theta $$
+$$ \oint \vec{B}  \cdot d\vec{l}  =  \oint \dfrac{ \mu_0 I}{2 \pi r} r d \theta = (\dfrac{ \mu_0 I}{2 \pi r})\oint  d \theta $$
 
-$$ \oint_M \vec{H} \cdot \vec{l} = \mu_0 $$
+$$ \oint_M \vec{H} \cdot d\vec{l} = \mu_0 $$
 
 ![cilindro](https://github.com/M-O-R-P-H-E-U-S/Electromagnetic-Fields/blob/main/cilindro.jpeg) 
 
