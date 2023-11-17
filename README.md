@@ -8,6 +8,7 @@ $$  \vec{B} \cdot \vec{l} = B r d \theta$$
 
 $$ \oint \vec{B}  \cdot \vec{l}  =  \oint \dfrac{ \mu_0 I}{2 \pi r} r d \theta = (\dfrac{ \mu_0 I}{2 \pi r})\oint  d \theta $$
 
+$$ \oint_M \vec{H} \cdot \vec{l} = \mmu $$
 
 ![cilindro](https://github.com/M-O-R-P-H-E-U-S/Electromagnetic-Fields/blob/main/cilindro.jpeg) 
 
