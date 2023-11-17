@@ -11,11 +11,7 @@ $$ \Phi = \int_S \vec{E} \cdot \vec{n} dA $$
 $$ \Phi_{Superficie Cerrada} = \dfrac{q_{enc}}{\epsilon_{0}} $$
 
 
-
-
-
-
-La propiedad fundamental de un campo magnético estático es que no es conservador. Un campo conservador es aquel que realiza la misma cantidad de trabajo sobre una partícula que se desplaza entre dos puntos diferentes, sin importar la trayectoria elegida. Los campos magnéticos no tienen esa propiedad.
+La propiedad fundamental de un campo magnético estático es que no es conservador. 
 
 $$  \vec{B} \cdot \vec{l} = B r d \theta$$
 
